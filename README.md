@@ -1,3 +1,10 @@
+[![CI](https://img.shields.io/github/actions/workflow/status/Tox1469/port-scanner-lite/ci.yml?style=flat-square&label=ci)](https://github.com/Tox1469/port-scanner-lite/actions)
+[![License](https://img.shields.io/github/license/Tox1469/port-scanner-lite?style=flat-square)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/Tox1469/port-scanner-lite?style=flat-square)](https://github.com/Tox1469/port-scanner-lite/releases)
+[![Stars](https://img.shields.io/github/stars/Tox1469/port-scanner-lite?style=flat-square)](https://github.com/Tox1469/port-scanner-lite/stargazers)
+
+---
+
 # port-scanner-lite
 
 Scanner TCP minimalista que verifica se uma porta está aberta estabelecendo conexão.
